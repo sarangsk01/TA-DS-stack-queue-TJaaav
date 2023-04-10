@@ -173,3 +173,4 @@ console.log(queue2.dequeue()); // => 1
 
 console.log(queue2.isEmpty()); // true
 ```
+console.log("");
