@@ -185,3 +185,4 @@ console.log(stack2.remove()); // => 10
 
 console.log(stack2.isEmpty()); // true
 ```
+console.log('');
