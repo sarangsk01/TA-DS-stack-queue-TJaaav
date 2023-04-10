@@ -19,7 +19,7 @@ console.log(repeater('j')); // 'jjjjj'
 console.log(loop(10)); // 10 9 8 7 6 5 4 3 2 1 0
 console.log(loop(4)); // 4 3 2 1 0
 ```
-
+console.log("");
 - Write a function `countTo` that takes one argument limit and logs the number from 0 to limit
 
 ```js
