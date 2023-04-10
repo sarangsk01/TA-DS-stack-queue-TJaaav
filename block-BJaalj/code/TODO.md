@@ -14,7 +14,7 @@ console.log(linearSearch(list, 66)); // 9
 console.log(linearSearch(list, 166)); // -1
 console.log(linearSearch(list, 54)); // 8
 ```
-
+console.log('');
 - Write a function called `binarySearch` which accepts an array and a value. Using the binary search algorithm search for the value. If you find the value return the index of the element otherwise return -1. Make sure to use the binary search algorithm.
 
 ```js
